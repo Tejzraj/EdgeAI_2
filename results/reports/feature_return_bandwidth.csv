@@ -1,0 +1,5 @@
+mels_or_mfcc,hop_samples,frames_per_second,bytes_per_frame,bytes_per_second
+40,320,50.0,181,9050.0
+40,160,100.0,181,18100.0
+13,320,50.0,73,3650.0
+13,160,100.0,73,7300.0
