@@ -1,0 +1,31 @@
+# Python environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# macOS
+.DS_Store
+
+# Generated audio previews
+team_*_preview.wav
+
+# Generated experiment logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Local IDE settings
+.vscode/
+.idea/
